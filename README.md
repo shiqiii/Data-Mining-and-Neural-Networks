@@ -9,7 +9,7 @@ This is the final projecct for course *Data Mining and Neural Networks*. The ful
    1.2 Backpropagation in Feedforward Multi-layer Networks - with 2 exercises <br> 
    1.3 Personal Regression Example - with 1 exercises <br>
    1.4 Bayesian Inference - with 2 exercises <br>   
-2. Applications:Time-series Prediction and Classification <br>  
+2. Applications:Time-series Prediction and Classification <br>
    2.1 Time-series Prediction - with 5 exercises <br>
    2.2 Classification - with 2 exercises <br> 
    2.3 Automatic Relevance Determination - with 2 exercises <br> 
@@ -19,6 +19,6 @@ This is the final projecct for course *Data Mining and Neural Networks*. The ful
    3.3 Autoencoder - with 1 exercises <br>
    3.4 Stacked Autoencoder - with 1 exercises <br>  
 4. Variational Auto-Encodersand Convolutional Neural Networks <br>
-   4.1 Weight Initialization & Batch-normalization - with 2 exercises <br>  
+   4.1 Weight Initialization & Batch-normalization - with 2 exercises <br>
    4.2 Variational Autoencoders - with 3 exercises <br>
    4.3 Convolutional Neural Networks - with 3 exercises <br>
